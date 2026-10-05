@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Shahab! 👋
 
-<!--
-**shahabnurellahi/shahabnurellahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📱 Passionate Android Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I am an Android Developer focused on creating clean, smart, and user-friendly mobile experiences. I love turning complex problems into simple, beautiful, and intuitive applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools:
+*   **Languages:** Kotlin, Java
+*   **Mobile Development:** Android Studio, Android SDK
+*   **Architecture & Design:** Clean Architecture, MVVM, Material Design
+*   **Version Control:** Git & GitHub
+
+### 🚀 My Featured Projects:
+*   **[Novax Planner](https://github.com/shahabnurellahi/novaxplanner):** A smart daily planning and scheduling application.
+*   **[Novax Whisper](https://github.com/shahabnurellahi/novaxwhisper):** (توضیح کوتاه این اپلیکیشن را اینجا بنویس)
+
+### 📊 GitHub Stats:
+![Shahab's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahabnurellahi&show_icons=true&theme=radium)
+
+### 📫 How to reach me:
+*   **Email:** (ایمیل خودت را اینجا بنویس)
+*   **LinkedIn:** [Your LinkedIn Profile](لینک صفحه لینکدین خودت را اینجا بذار)
