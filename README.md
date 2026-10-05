@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I am an Android Developer focused on creating clea
 
 ### 🚀 My Featured Projects:
 *   **[Novax Planner](https://github.com/shahabnurellahi/novaxplanner):** A smart daily planning and scheduling application.
-*   **[Novax Whisper](https://github.com/shahabnurellahi/novaxwhisper):** (توضیح کوتاه این اپلیکیشن را اینجا بنویس)
+*   **[Novax Whisper](https://github.com/shahabnurellahi/novaxwhisper):** An offline, AI-powered speech-to-text application that runs entirely on-device.
 
 ### 📊 GitHub Stats:
 ![Shahab's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahabnurellahi&show_icons=true&theme=radium)
